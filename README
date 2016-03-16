@@ -1,0 +1,15 @@
+$committees_
+    This package prints the committees who have maximum commits in a given
+    org's most popular repositories. [popularity == max number of forks]
+
+    The following are the arguments.
+    Organization - Popular repositories for an org.
+    Repos        - Maximum number of most popular repositories 
+                   for the above.
+    committees   - Top committees for all the above mentioned popular repos will 
+                   printed as final output.
+    
+Usage:
+
+    $pip install --editable .
+    $committees --help
