@@ -5,7 +5,7 @@ $committees_
     The following are the arguments.
     Organization - Popular repositories for an org.
     Repos        - Maximum number of most popular repositories 
-                   for the above.
+                   for the above organization.
     committees   - Top committees for all the above mentioned popular repos will 
                    printed as final output.
     
